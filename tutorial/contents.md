@@ -100,6 +100,7 @@ Command Palette - `Ctrl + Shift + P`
      - Print to HTML
      - Notepad++ Color Scheme
      - ExportHtml
+       - See here if you'd like to print using Notepad++ Color Scheme colors: https://stackoverflow.com/questions/48087699/how-do-i-change-the-color-scheme-used-by-the-exporthtml-package-in-sublime-text
      - Compare Side-By-Side <--THIS ONE IS ESPECIALLY USEFUL
  - Add the extra "Goto Anything" Operator: "#". Ex: `Ctrl + ;` or adding "#" in a Goto Anything (Ctrl + P) command will allow you to perform a fuzzy search of the search term you write after, within the open file. See here: http://docs.sublimetext.info/en/latest/file_management/file_navigation.html#goto-anything
 

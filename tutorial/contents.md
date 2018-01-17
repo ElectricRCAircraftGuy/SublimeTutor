@@ -86,7 +86,8 @@ Python Console - `^ + Backticks`
 Command Palette - `Ctrl + Shift + P`
 
 
-7. TODO:
+7. TODO
+-------
 
  - Add information on Projects and Workspaces: http://docs.sublimetext.info/en/latest/file_management/projects.html
    - discuss File --> New Window (Shift + Ctrl + N) to create a new anonymous project, then Project --> Edit Project to set the project preferences (see here for format: https://www.sublimetext.com/docs/3/projects.html), then Project --> Save Project As... to save the project!

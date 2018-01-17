@@ -86,4 +86,20 @@ Python Console - `^ + Backticks`
 Command Palette - `Ctrl + Shift + P`
 
 
+7. TODO:
+
+ - Add information on Projects and Workspaces: http://docs.sublimetext.info/en/latest/file_management/projects.html
+   - discuss File --> New Window (Shift + Ctrl + N) to create a new anonymous project, then Project --> Edit Project to set the project preferences (see here for format: https://www.sublimetext.com/docs/3/projects.html), then Project --> Save Project As... to save the project!
+ - Discuss "Package Control: Install Package" via Ctrl + Shift + P
+   - Nice packages to include are: 
+     - Package Control
+     - Sublime Tutor
+     - Function Name Display
+     - Outline
+     - Print to HTML
+     - Notepad++ Color Scheme
+     - ExportHtml
+     - Compare Side-By-Side <--THIS ONE IS ESPECIALLY USEFUL
+ - Add the extra "Goto Anything" Operator: "#". Ex: `Ctrl + ;` or adding "#" in a Goto Anything (Ctrl + P) command will allow you to perform a fuzzy search of the search term you write after, within the open file. See here: http://docs.sublimetext.info/en/latest/file_management/file_navigation.html#goto-anything
+
 
